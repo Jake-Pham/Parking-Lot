@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Parking_Lot.BAIXETHUE" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAgAAAIAEAEAAAIgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QuanLyXe\Class\BAIXETHUE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parking_Lot.CONTRACT" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAFAAAIIAAACgAAAAAAAAA=</HashCode>
+      <FileName>QuanLyXe\Class\CONTRACT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parking_Lot.MY_DB" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAQAAAAAQAAAAAAAAABAAAAA=</HashCode>
+      <FileName>QuanLyXe\Class\MY_DB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parking_Lot.Program" Collapsed="true">
+    <Position X="6" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>QuanLyXe\Class\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parking_Lot.Globals" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAAAA=</HashCode>
+      <FileName>QuanLyXe\Class\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parking_Lot.RENT" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAIAAAAAAAAAEIAAIAEAAAQAAAAAAAAA=</HashCode>
+      <FileName>QuanLyXe\Class\RENT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parking_Lot.VEHICLE" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABgAAAAAAAAAAAAAAAEAAgIACAACAAAAAAQAEA=</HashCode>
+      <FileName>QuanLyXe\Class\VEHICLE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parking_Lot.WORK">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEgAAAAAAAEAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>QuanLyXe\Class\WORK.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

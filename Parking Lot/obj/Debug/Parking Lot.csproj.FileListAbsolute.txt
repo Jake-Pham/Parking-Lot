@@ -1,0 +1,25 @@
+D:\Study\Window Programming\FinalProject\Parking Lot\Parking Lot\bin\Debug\ParkingLot.mdf
+D:\Study\Window Programming\FinalProject\Parking Lot\Parking Lot\bin\Debug\ParkingLot_log.ldf
+D:\Study\Window Programming\FinalProject\Parking Lot\Parking Lot\bin\Debug\Parking Lot.exe.config
+D:\Study\Window Programming\FinalProject\Parking Lot\Parking Lot\bin\Debug\Parking Lot.exe
+D:\Study\Window Programming\FinalProject\Parking Lot\Parking Lot\bin\Debug\Parking Lot.pdb
+D:\Study\Window Programming\FinalProject\Parking Lot\Parking Lot\obj\Debug\Parking Lot.csprojAssemblyReference.cache
+D:\Study\Window Programming\FinalProject\Parking Lot\Parking Lot\obj\Debug\Parking_Lot.Log_in.resources
+D:\Study\Window Programming\FinalProject\Parking Lot\Parking Lot\obj\Debug\Parking_Lot.Properties.Resources.resources
+D:\Study\Window Programming\FinalProject\Parking Lot\Parking Lot\obj\Debug\Parking Lot.csproj.GenerateResource.cache
+D:\Study\Window Programming\FinalProject\Parking Lot\Parking Lot\obj\Debug\Parking Lot.csproj.CoreCompileInputs.cache
+D:\Study\Window Programming\FinalProject\Parking Lot\Parking Lot\obj\Debug\Parking Lot.exe
+D:\Study\Window Programming\FinalProject\Parking Lot\Parking Lot\obj\Debug\Parking Lot.pdb
+D:\Study\Window Programming\FinalProject\Parking Lot\Parking Lot\obj\Debug\Parking_Lot.DoanhThuForm.resources
+D:\Study\Window Programming\FinalProject\Parking Lot\Parking Lot\obj\Debug\Parking_Lot.EditXeForm.resources
+D:\Study\Window Programming\FinalProject\Parking Lot\Parking Lot\obj\Debug\Parking_Lot.QuanLyXeForm.resources
+D:\Study\Window Programming\FinalProject\Parking Lot\Parking Lot\obj\Debug\Parking_Lot.ChoThueForm.resources
+D:\Study\Window Programming\FinalProject\Parking Lot\Parking Lot\obj\Debug\Parking_Lot.ContractForm.resources
+D:\Study\Window Programming\FinalProject\Parking Lot\Parking Lot\obj\Debug\Parking_Lot.QuanLyThueXe.resources
+D:\Study\Window Programming\FinalProject\Parking Lot\Parking Lot\obj\Debug\Parking_Lot.TraXeForm.resources
+D:\Study\Window Programming\FinalProject\Parking Lot\Parking Lot\obj\Debug\Parking_Lot.TraXeThanhToanForm.resources
+D:\Study\Window Programming\FinalProject\Parking Lot\Parking Lot\obj\Debug\Parking_Lot.LayXeForm.resources
+D:\Study\Window Programming\FinalProject\Parking Lot\Parking Lot\obj\Debug\Parking_Lot.LayXeThanhToanForm.resources
+D:\Study\Window Programming\FinalProject\Parking Lot\Parking Lot\obj\Debug\Parking_Lot.NhanVienForm.resources
+D:\Study\Window Programming\FinalProject\Parking Lot\Parking Lot\obj\Debug\Parking_Lot.RegisterForm.resources
+D:\Study\Window Programming\FinalProject\Parking Lot\Parking Lot\obj\Debug\Parking_Lot.QuanLyForm.resources
